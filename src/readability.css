@@ -1,0 +1,186 @@
+/* Readable type and stronger contrast for an operational health workspace. */
+.sidebar .sidebar-close{display:none}
+.nav-item{font-size:12px}
+.nav-caption{font-size:9px;color:#97ad9c}
+.mission-label{font-size:9px}
+.mission-name{font-size:9px;color:#a4b9aa}
+.mission-day{font-size:10px}
+.profile-button strong{font-size:12px}
+.profile-button small{font-size:10px}
+.privacy-note strong{font-size:10px}
+.privacy-note span{font-size:9px;color:#a0b2a2}
+.app-shell .breadcrumb{font-size:9px}
+.app-shell .breadcrumb strong{font-size:12px}
+.app-shell .demo-badge{font-size:8px;color:#727e65}
+.app-shell .connection-button{font-size:10px;color:#61714e}
+.app-shell .page-heading p{font-size:12px;color:#737f6b}
+.app-shell .page-heading .eyebrow{font-size:9px;color:#74816a}
+.app-shell .button{font-size:11px;min-height:39px}
+.app-shell .text-link{font-size:10px;color:#64764e}
+.app-shell .tag{font-size:9px;min-height:24px}
+.app-shell .tag.green,.app-shell .tag.mint{color:#647c45}
+.app-shell .tag.amber{color:#976c32}
+.app-shell .tag.neutral{color:#6c795b}
+.app-shell .card h2{font-size:14px}
+.app-shell .section-heading h2{font-size:15px}
+.app-shell .card-heading p,.app-shell .section-heading p{font-size:10px;color:#7a836b}
+.app-shell .hero-eyebrow{font-size:9px}
+.app-shell .hero-main h2{font-size:34px;color:#f1f5e9}
+.app-shell .hero-main p{font-size:11px;color:#cfdbbf}
+.app-shell .hero-main .tag.mint{font-size:8px;min-height:21px;color:#cee9ad}
+.app-shell .hero-main .tag.amber{color:#eed09c}
+.app-shell .hero-footer{font-size:8px;color:#cad8c1}
+.app-shell .hero-footer>span:last-child{font-size:7px;letter-spacing:.4px}
+.app-shell .daily-card h2{font-size:20px}
+.app-shell .daily-card>p{font-size:11px;color:#7b846c;line-height:1.7}
+.app-shell .card-eyebrow{font-size:8px;color:#7a8b62}
+.app-shell .compact .mood-option>span{font-size:8px}
+.app-shell .mood-option{color:#7d886b}
+.app-shell .mood-option.selected{color:#617540}
+.app-shell .daily-private{font-size:8px;color:#7a866b}
+.app-shell .metric-top>span{font-size:11px;color:#6b7b59}
+.app-shell .metric-value{font-size:28px}
+.app-shell .metric-value.sleep-value{font-size:25px;color:#a77a39}
+.app-shell .metric-value>small{font-size:9px;color:#738261}
+.app-shell .metric-description{font-size:9px;color:#7c866d;white-space:normal;line-height:1.6}
+.app-shell .metric-card.amber .metric-description{color:#9e783e}
+.app-shell .metrics-grid{margin-bottom:23px}
+.app-shell .metric-card{min-height:149px}
+.app-shell .chart-stat>strong{font-size:26px}
+.app-shell .chart-stat small{font-size:9px;color:#768469}
+.app-shell .chart-stat>span{font-size:9px}
+.app-shell .amber-text{color:#a87939}
+.app-shell .green-text{color:#6b8154}
+.app-shell .tab-pills>button{font-size:9px;color:#728460}
+.app-shell .chart-legend{font-size:8px;color:#748065}
+.app-shell .chart-footer{font-size:8px;color:#77846a}
+.app-shell .chart-footer>.text-link{font-size:9px}
+.app-shell .line-chart text{fill:#77836a;font-size:10px}
+.app-shell .card-description{font-size:10px;color:#7d866e}
+.app-shell .alert-label{font-size:9px;color:#907b53}
+.app-shell .alert-label>span{font-size:7px;color:#977940;letter-spacing:.4px}
+.app-shell .alert-item h3{font-size:12px;color:#6c6e4e;line-height:1.7}
+.app-shell .alert-item p{font-size:10px;color:#88836b;line-height:1.8}
+.app-shell .alert-action{font-size:9px;color:#8c7947}
+.app-shell .alerts-footer{font-size:9px}
+.app-shell .cabin-label{font-size:9px;color:#798869}
+.app-shell .cabin-metric>strong{font-size:26px}
+.app-shell .cabin-metric>strong small{font-size:9px;color:#7f8c6b}
+.app-shell .cabin-metric>span{font-size:8px;color:#7e8a6b;line-height:1.8;white-space:normal}
+.app-shell .card-bottom-line>span{font-size:8px;color:#7d8b67;white-space:normal;line-height:1.7}
+.app-shell .card-bottom-line>.text-link{font-size:9px}
+.app-shell .next-exercise h3{font-size:14px;color:#61764a}
+.app-shell .next-exercise p{font-size:10px;color:#7d8a68;line-height:1.7}
+.app-shell .next-exercise .eyebrow{font-size:8px;color:#7f9066}
+.app-shell .exercise-mini .card-heading>.muted{font-size:9px;color:#788766}
+.app-shell .page-footer{font-size:8px;color:#778669}
+.app-shell .page-footer>span{font-size:8px}
+.app-shell .baseline-card h2{font-size:23px}
+.app-shell .baseline-card>p{font-size:12px;color:#748267}
+.app-shell .baseline-card .eyebrow{font-size:9px;color:#7f8d6b}
+.app-shell .baseline-meta{font-size:10px}
+.app-shell .baseline-meta strong{color:#72875d}
+.app-shell .info-note{font-size:11px;color:#758664}
+.app-shell .baseline-card .info-note{font-size:10px}
+.app-shell .insight-action h2{font-size:19px}
+.app-shell .insight-action>p{font-size:12px;color:#7c896b}
+.app-shell .insight-action .eyebrow{font-size:8px;color:#8a8f66}
+.app-shell .breakdown-card>p{font-size:9px;color:#7e8b6c;line-height:1.8}
+.app-shell .breakdown-row>span{font-size:11px;color:#74875e}
+.app-shell .breakdown-row strong{font-size:10px;color:#6f8059}
+.app-shell .insight-reading>div>span{font-size:11px;color:#7b8969}
+.app-shell .field{font-size:12px;color:#6c7e55}
+.app-shell .field input:not([type=range]),.app-shell .field textarea,.app-shell .field select{font-size:12px;color:#647a4f}
+.app-shell .field>small{font-size:10px;color:#7e8c6b}
+.app-shell .field textarea::placeholder{font-size:11px;color:#8b987a}
+.app-shell .form-label{font-size:13px}
+.app-shell .mood-option>span{font-size:9px}
+.app-shell .form-footer>span{font-size:10px;color:#7a8a66}
+.app-shell .range-labels{color:#7e8d69}
+.app-shell .input-unit>span{font-size:10px;color:#7e8c68}
+.app-shell .relax-card h2{font-size:27px;color:#e5efd3}
+.app-shell .relax-card>p{font-size:12px;color:#c0d0ac}
+.app-shell .relax-card .eyebrow{font-size:9px;color:#bdcfa7}
+.app-shell .relax-card>button>span{font-size:12px}
+.app-shell .relax-card>button small{font-size:10px;color:#b1c49a}
+.app-shell .privacy-inline{font-size:10px;color:#7c8b69}
+.app-shell .privacy-inline strong{color:#6f815a}
+.app-shell .journal-date{font-size:12px;color:#6e8257}
+.app-shell .journal-date small{font-size:9px;color:#839270}
+.app-shell .journal-mood strong{font-size:12px}
+.app-shell .journal-row{font-size:11px;color:#788a61}
+.app-shell .journal-note{font-size:10px;color:#7d8d6a}
+.app-shell .exercise-overview-main h2{font-size:29px}
+.app-shell .exercise-overview-main p{font-size:11px;color:#77895b}
+.app-shell .exercise-completion>strong{font-size:10px;color:#6e8551}
+.app-shell .movement-stats>div>span{font-size:11px;color:#788e60;white-space:normal}
+.app-shell .movement-stats small{font-size:10px;color:#7c8f63}
+.app-shell .exercise-info h2{font-size:17px}
+.app-shell .exercise-info .eyebrow{font-size:9px;color:#798f60}
+.app-shell .exercise-info p{font-size:10px;color:#7e9166}
+.app-shell .weather-banner h3{font-size:14px;color:#6e8255}
+.app-shell .weather-banner p{font-size:10px;color:#79896a}
+.app-shell .weather-banner .eyebrow{font-size:8px;color:#7c8e63}
+.app-shell .stat-label{font-size:11px;color:#7c8e66}
+.app-shell .three-stat-grid .card>p{font-size:10px;color:#7f8f6a}
+.app-shell .text-reading{font-size:22px}
+.app-shell td{font-size:11px;color:#7c9064}
+.app-shell th{font-size:9px;color:#788a62}
+.app-shell td>small{font-size:9px;color:#81936c}
+.app-shell .environment-context h2{font-size:20px}
+.app-shell .environment-context>p{font-size:12px;color:#7e8f68}
+.app-shell .reading-row span{font-size:11px;color:#768e5d}
+.app-shell .reading-row small{font-size:9px;color:#87976f}
+.app-shell .reading-row strong{font-size:13px;color:#788c5f}
+.app-shell .device-disclaimer strong{font-size:12px}
+.app-shell .device-disclaimer>span:not(.tag){font-size:10px}
+.app-shell .device-card h2{font-size:18px}
+.app-shell .device-card>p{font-size:11px;color:#7b8e65}
+.app-shell .device-meta>span{font-size:9px;color:#7c9064}
+.app-shell .schema-card h2{font-size:16px}
+.app-shell .schema-card p{font-size:11px;color:#7e9069}
+.app-shell .sharing-privacy h2{font-size:24px;color:#677f4d}
+.app-shell .sharing-privacy p{font-size:12px;color:#788b61}
+.app-shell .sharing-privacy .eyebrow{font-size:9px;color:#768b5f}
+.app-shell .scope-option strong{font-size:11px;color:#6d8556}
+.app-shell .scope-option small{font-size:9px;color:#81956a}
+.app-shell .notes-permission strong{font-size:11px;color:#8e774d}
+.app-shell .notes-permission small{font-size:9px;color:#8e7e5d}
+.app-shell .fine-print{font-size:10px;color:#7d8f68}
+.app-shell .link-status strong{font-size:11px;color:#758b5e}
+.app-shell .link-status span{font-size:10px;color:#7e9068}
+.app-shell .empty-state h3{font-size:14px;color:#758c5b}
+.app-shell .empty-state p{font-size:11px;color:#7f916b}
+.app-shell .queue-item-top strong{font-size:12px;color:#758d5c}
+.app-shell .queue-item-top span:not(.tag){font-size:9px;color:#83956f}
+.app-shell .queue-item>p{font-size:10px;color:#7a9061}
+.app-shell .queue-item>small{font-size:9px;color:#7b8f66}
+.app-shell .stack-form>.muted{font-size:12px;color:#788b64}
+.app-shell .alert-detail>p{font-size:12px;color:#768d62}
+.app-shell .detail-steps>div>p{font-size:12px;color:#788f60}
+.app-shell .detail-steps .eyebrow{font-size:9px;color:#7b9262}
+.app-shell .connection-facts>span,.app-shell .connection-facts strong{font-size:11px;color:#788e62}
+.app-shell .toggle-setting strong{font-size:12px;color:#738c59}
+.app-shell .toggle-setting small{font-size:10px;color:#7f9468}
+.app-shell .guided-routine>p:not(.fine-print){font-size:12px;color:#7e9169}
+.app-shell .breathing-orb-inner>span{font-size:11px;color:#7d9566}
+.app-shell .score-intro h3{font-size:21px}
+.app-shell .score-intro p{font-size:11px;color:#c0d2aa}
+.app-shell .score-table p{font-size:10px;color:#7c9165}
+.app-shell .score-table>div>span:not(.tag){font-size:12px;color:#728c59}
+.app-shell .code-block{font-size:11px}
+.app-shell .profile-detail p{font-size:11px;color:#7d9365}
+.app-shell .session-title p{font-size:12px;color:#7f9568}
+.app-shell .toast{font-size:12px;color:#647c4c}
+.app-shell .notification-popover>button strong{font-size:12px}
+.app-shell .notification-popover>button small{font-size:10px;color:#7c8e65}
+@media(max-width:1250px) and (min-width:901px){.app-shell .nav-item{font-size:11px}.app-shell .hero-main h2{font-size:29px}.app-shell .hero-main p{font-size:10px}.app-shell .hero-eyebrow{font-size:7px}.app-shell .hero-footer{font-size:6px}.app-shell .hero-footer>span:last-child{font-size:6px}.app-shell .daily-card h2{font-size:18px}.app-shell .daily-card>p{font-size:10px}.app-shell .compact .mood-option>span{font-size:7px}.app-shell .metric-top>span{font-size:10px}.app-shell .metric-value.sleep-value{font-size:23px}.app-shell .cabin-label{font-size:8px}.app-shell .cabin-metric>span{font-size:7px}.app-shell .card-bottom-line>span{font-size:7px}.app-shell .next-exercise h3{font-size:12px}.app-shell .next-exercise p{font-size:9px}}
+@media(max-width:900px){.sidebar .sidebar-close{display:flex}.app-shell .hero-main h2{font-size:31px}.app-shell .hero-main p{font-size:10px}.app-shell .hero-eyebrow{font-size:8px}.app-shell .hero-footer{font-size:6px}.app-shell .hero-footer>span:last-child{font-size:6px}.app-shell .compact .mood-option>span{font-size:7px}.app-shell .daily-card h2{font-size:18px}.app-shell .daily-card>p{font-size:10px}.app-shell .overview-middle{grid-template-columns:1fr}.app-shell .alert-list{display:grid;grid-template-columns:1fr 1fr}.app-shell .overview-bottom{grid-template-columns:1fr}.app-shell .page-footer>span{font-size:8px}.app-shell .insights-grid,.app-shell .sharing-layout,.app-shell .checkin-layout{grid-template-columns:1fr}.app-shell .baseline-card{display:grid;grid-template-columns:auto 1fr;gap:5px 20px}.app-shell .baseline-card .eyebrow{margin:0}.app-shell .devices-grid{grid-template-columns:1fr 1fr}.app-shell .scope-list{grid-template-columns:1fr 1fr}.app-shell .relax-card{display:grid;grid-template-columns:1.3fr 1fr;gap:0 25px}.app-shell .relax-orbit{display:none}.app-shell .relax-card>h2,.app-shell .relax-card>.eyebrow,.app-shell .relax-card>p{grid-column:1}.app-shell .relax-card>button{grid-column:2}.app-shell .relax-card>p{margin-bottom:0}.app-shell .exercise-overview{grid-template-columns:1fr}.app-shell .movement-stats{display:grid;grid-template-columns:1fr 1fr 1fr;padding:20px 23px}.app-shell .movement-stats>div{border-bottom:0;border-right:1px solid #eaf0df;padding:3px 18px}.app-shell .movement-stats>div:first-child{padding-left:0}.app-shell .movement-stats>div:last-child{padding-right:0;border:0}.app-shell .three-stat-grid{grid-template-columns:1fr 1fr}.app-shell .three-stat-grid>.card:last-child{grid-column:1/-1;display:flex;gap:20px;align-items:center}.app-shell .three-stat-grid .text-reading{margin:0 0 0 auto!important;font-size:20px!important}.app-shell .three-stat-grid>.card:last-child>p{display:none}}
+@media(max-width:700px){.app-shell .hero-main h2{font-size:27px}.app-shell .hero-main p{font-size:9px}.app-shell .hero-eyebrow{font-size:6px}.app-shell .hero-footer{font-size:5px}.app-shell .hero-footer>span:last-child{font-size:5px}.app-shell .daily-card h2{font-size:16px}.app-shell .daily-card>p{font-size:9px}.app-shell .compact .mood-option>span{font-size:6px}.app-shell .daily-card .button{font-size:9px}.app-shell .card-eyebrow{font-size:7px}.app-shell .daily-private{font-size:7px}.app-shell .scope-list{grid-template-columns:1fr 1fr}.app-shell .device-meta>span{font-size:8px}.app-shell .exercise-completion>strong{font-size:8px}.app-shell .exercise-overview-main h2{font-size:26px}.app-shell .exercise-overview-main p{font-size:10px}}
+@media(max-width:480px){.app-shell .page-heading .eyebrow{font-size:7px}.app-shell .page-heading p{font-size:11px;max-width:300px}.app-shell .view-overview .heading-action .button{font-size:0;min-height:31px}.app-shell .breadcrumb{font-size:0}.app-shell .breadcrumb strong{font-size:11px}.app-shell .connection-button{font-size:9px}.app-shell .hero-main h2{font-size:31px}.app-shell .hero-main p{font-size:9px}.app-shell .hero-eyebrow{font-size:8px}.app-shell .hero-footer{font-size:6px}.app-shell .hero-footer>span:last-child{font-size:5.5px}.app-shell .daily-card h2{font-size:21px}.app-shell .daily-card>p{font-size:11px}.app-shell .daily-card .button{font-size:11px}.app-shell .card-eyebrow{font-size:8px}.app-shell .compact .mood-option>span{font-size:8px}.app-shell .daily-private{font-size:9px}.app-shell .section-heading h2{font-size:14px}.app-shell .section-heading p{font-size:9px}.app-shell .section-heading>.text-link{font-size:8px}.app-shell .metric-top>span{font-size:11px}.app-shell .metric-description{font-size:9px}.app-shell .metric-card{min-height:151px}.app-shell .chart-legend{font-size:8px}.app-shell .chart-stat>strong{font-size:24px}.app-shell .chart-stat small{font-size:8px}.app-shell .chart-stat>span{font-size:8px}.app-shell .chart-footer{font-size:7px}.app-shell .chart-footer>.text-link{font-size:8px}.app-shell .alert-list{display:block}.app-shell .alert-label{font-size:10px}.app-shell .alert-label>span{font-size:8px}.app-shell .alert-item h3{font-size:14px;max-width:none}.app-shell .alert-item p{font-size:11px}.app-shell .alert-action{font-size:10px}.app-shell .cabin-label{font-size:8px}.app-shell .cabin-metric>strong{font-size:23px}.app-shell .cabin-metric>strong small{font-size:8px}.app-shell .cabin-metric>span{font-size:7px}.app-shell .card-bottom-line>span{font-size:7px}.app-shell .card-bottom-line>.text-link{font-size:8px}.app-shell .next-exercise h3{font-size:14px}.app-shell .next-exercise p{font-size:10px}.app-shell .next-exercise .eyebrow{font-size:8px}.app-shell .page-footer>span{font-size:7px}.app-shell .page-footer>span:last-child{font-size:6.5px}.app-shell .field{font-size:11px}.app-shell .field>small{font-size:9px}.app-shell .mood-option>span{font-size:8px}.app-shell .form-footer>span{font-size:9px}.app-shell .field textarea::placeholder{font-size:10px}.app-shell .relax-card{display:block}.app-shell .relax-orbit{display:flex}.app-shell .relax-card>p{margin-bottom:23px}.app-shell .journal-row{font-size:10px}.app-shell .journal-date{font-size:11px}.app-shell .journal-date small{font-size:8px}.app-shell .journal-mood strong{font-size:10px}.app-shell .journal-row>span:not(.journal-date):not(.journal-mood){font-size:9px}.app-shell .journal-row>span:nth-child(4){margin-left:78px}.app-shell .journal-row>svg{top:51px}.app-shell .exercise-overview-main h2{font-size:24px}.app-shell .exercise-overview-main p{font-size:9px}.app-shell .exercise-completion>strong{font-size:7px}.app-shell .movement-stats>div{padding:3px 10px}.app-shell .movement-stats>div>span{font-size:8px}.app-shell .movement-stats small{font-size:8px}.app-shell .exercise-info h2{font-size:15px}.app-shell .exercise-info .eyebrow{font-size:8px}.app-shell .exercise-info p{font-size:10px}.app-shell .weather-banner h3{font-size:13px}.app-shell .weather-banner p{font-size:10px}.app-shell .weather-banner .eyebrow{font-size:7px}.app-shell .stat-label{font-size:10px}.app-shell .three-stat-grid .card>p{font-size:9px}.app-shell .three-stat-grid .text-reading{font-size:17px!important}.app-shell .view-environment>.environment-card .cabin-label{font-size:8px}.app-shell .view-environment>.environment-card .cabin-metric>span{font-size:7px}.app-shell .environment-trend .tab-pills>button{font-size:8px}.app-shell .devices-grid,.app-shell .scope-list{grid-template-columns:1fr}.app-shell .device-meta>span{font-size:10px}.app-shell .scope-option strong{font-size:12px}.app-shell .scope-option small{font-size:10px}.app-shell .sharing-privacy h2{font-size:23px}.app-shell .modal .field{font-size:11px}.app-shell .modal .field>small{font-size:9px}.app-shell .modal .mood-option>span{font-size:7px}.app-shell .modal .form-footer>span{font-size:8px}.app-shell .modal .form-footer>.button{font-size:10px}.app-shell .modal-heading p{font-size:10px}.app-shell .info-note{font-size:10px}.app-shell .stack-form>.muted{font-size:11px}.app-shell .code-block{font-size:9px}.app-shell .toast{font-size:11px}.app-shell .score-intro h3{font-size:20px}.app-shell .score-intro p{font-size:11px}.app-shell .score-table p{font-size:10px}.app-shell .report-categories>.tag{font-size:8px}.app-shell .toggle-setting strong{font-size:11px}.app-shell .toggle-setting small{font-size:9px}.app-shell .connection-facts>span,.app-shell .connection-facts strong{font-size:10px}}
+.app-shell .alert-detail>.alert-reading{background:#f6f8ef;border:1px solid #e3ecd6;border-radius:7px;padding:11px 14px;color:#718653;font-size:12px;font-weight:650}
+@media(max-width:480px){.app-shell .hero-main .score-ring{width:134px!important;height:134px!important}.app-shell .hero-main{gap:12px}.app-shell .hero-main h2{font-size:30px}.app-shell .hero-main .ring-value strong{font-size:44px}}
+.sidebar{overflow-y:auto;scrollbar-width:thin;scrollbar-color:#48604e transparent}.sidebar>*{flex-shrink:0}.sidebar-bottom{flex-shrink:0}.skip-link{position:fixed;left:240px;top:10px;z-index:400;transform:translateY(-160%);padding:11px 16px;background:#d0ecae;color:#263a35;border:1px solid #a6c580;border-radius:7px;font-size:12px;font-weight:650}.skip-link:focus{transform:translateY(0)}.main-content:focus{outline:none}
+@media(max-width:900px){.skip-link{left:15px}}
+@media(max-width:360px){.app-shell .hero-main .score-ring{width:110px!important;height:110px!important}.app-shell .hero-main h2{font-size:27px}.app-shell .hero-main .ring-value strong{font-size:35px}.app-shell .hero-main .ring-value span{font-size:5px}.app-shell .hero-eyebrow{font-size:7px}.app-shell .cabin-metric>strong{font-size:20px}.app-shell .cabin-metric{padding-left:8px;padding-right:8px}.app-shell .cabin-label{font-size:7px}.app-shell .cabin-label>svg{width:10px;height:10px}.app-shell .view-environment>.environment-card .cabin-metric{padding:0 8px}.app-shell .view-environment>.environment-card .cabin-label{font-size:7px}.app-shell .view-environment>.environment-card .cabin-metric>strong{font-size:21px}}
+.topbar-left{min-width:0;flex:1}.topbar-left .breadcrumb{min-width:0;overflow:hidden}.topbar-left .breadcrumb strong{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}.topbar-right{flex-shrink:0}

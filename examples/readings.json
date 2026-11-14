@@ -1,0 +1,5 @@
+[
+  {"sensor_id":"manual-01","timestamp":"2026-11-14T10:00:00Z","metric":"heart_rate","value":64,"unit":"bpm","source":"import"},
+  {"sensor_id":"manual-02","timestamp":"2026-11-14T10:00:00Z","metric":"sleep_hours","value":7.4,"unit":"h","source":"import"},
+  {"sensor_id":"manual-03","timestamp":"2026-11-14T10:00:00Z","metric":"co2","value":850,"unit":"ppm","source":"import"}
+]
